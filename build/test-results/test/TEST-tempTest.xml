@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tempTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-18T10:49:19" hostname="ggyool.local" time="0.0">
+  <properties/>
+  <testcase name="test" classname="tempTest" time="0.0"/>
+  <system-out><![CDATA[class java.lang.String
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
