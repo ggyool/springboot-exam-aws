@@ -1,10 +1,7 @@
 package org.ggyool.exam01.web;
 
 import org.junit.Test;
-import org.mockito.Mock;
 import org.springframework.mock.env.MockEnvironment;
-
-import java.awt.*;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
