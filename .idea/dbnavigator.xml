@@ -25,13 +25,13 @@
     <show-object-properties value="true" />
     <loaded-nodes>
       <connection connection-id="0e23b34a-3a0c-4844-b6d1-4c6c64914c24">
-        <schema name="springboot_exam" object-types="table, column, view" />
+        <schema name="springboot_exam" object-types="table, view" />
       </connection>
     </loaded-nodes>
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="0e23b34a-3a0c-4844-b6d1-4c6c64914c24">
-      <console name="ggyool" type="STANDARD" schema="springboot_exam" session="Main" />
+      <console name="ggyool" type="STANDARD" schema="springboot_exam" session="Main">select * from user;</console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
